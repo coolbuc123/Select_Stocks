@@ -1,0 +1,35 @@
+myFuture(20200812).xlsx
+myFuture(20200812)_종목선정결과파일로 볼수 있음.xlsx
+시총.xlsx
+포트.xls
+.ipynb_checkpoints/★(구버전) Scoring-checkpoint.ipynb
+.ipynb_checkpoints/my_function-checkpoint.ipynb
+.ipynb_checkpoints/Scoring_Home버전-checkpoint.ipynb
+.ipynb_checkpoints/Scoring_회사버전-checkpoint.ipynb
+.ipynb_checkpoints/Select-Stocks-checkpoint.ipynb
+.ipynb_checkpoints/포트분리 & 성과파일Shot-checkpoint.ipynb
+__pycache__/my_function.cpython-37.pyc
+data/3.2017거래내역(ep)_20200717.xls
+data/3.2018거래내역(ep)_20200717.xls
+data/3.최근1년거래내역(ep)_20200717.xls
+data/거래.xls
+data/시총.xlsx
+data/잠정.xlsx
+data/재무_202003.xlsx
+data/재무_202006.xlsx
+data/포트.xls
+pkl/clean_finance.pkl
+pkl/clean_history.pkl
+pkl/clean_mkt.pkl
+pkl/clean_port.pkl
+pkl/finance.pkl
+pkl/finance_raw.pkl
+pkl/income_base.pkl
+pkl/mkt.pkl
+pkl/new_history.pkl
+pkl/port.pkl
+pkl/port_ready.pkl
+pkl/pre.pkl
+pkl/pre_history.pkl
+pkl/recently_buy.pkl
+pkl/score.pkl
